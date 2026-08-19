@@ -1,2 +1,2 @@
 # 2026_2_unp_poo
-Repository for PF
+Repository for POO classes 2026/2
